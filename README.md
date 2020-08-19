@@ -1,6 +1,8 @@
+#face_detector
+
 Face Detector with Python
 
-OpenCV has been used to train the dataset
+OpenCV has been used to train the dataset haarcascade_frontalface_default.xml
 
 Realtime face detector using webcam/Image/Video.
 
